@@ -1,0 +1,5 @@
+{
+    "title" : "First Mandatory Assignment",
+    "subtitle" : "Home Page for my first Mandatory Assignment",
+    "text" : "This text is read from a json file called index.json"
+}
